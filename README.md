@@ -2,7 +2,7 @@
 
 <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="400" height="300">
 
-## Fancy Seeing You Here 🌟
+### Fancy Seeing You Here 🌟
 
 I am Anushka, currently pursuing my bachelor's degree majoring in Mathematics And Computing from IIT (BHU) Varanasi. I am a Competitive programmer and have recently started Web development. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
