@@ -11,7 +11,7 @@ I am Anushka, currently pursuing my bachelor's degree majoring in Mathematics An
 ## &#9734; My Profiles
 
 - [Codeforces](https://codeforces.com/profile/anushh23)
-- [CodeChef](https://www.codechef.com/users/iwasamistake)
+- [CodeChef](https://www.codechef.com/users/anushka2352)
 - [Atcoder](https://atcoder.jp/users/anushka2352)
 
 ## &#x1f4c8; GitHub Stats
