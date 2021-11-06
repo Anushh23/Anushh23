@@ -8,7 +8,8 @@ I am Anushka, currently pursuing my bachelor's degree majoring in Mathematics An
 
 ## &#9734; My Profiles
 
- [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anushh23) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anushka2352) [![Atcoder](https://img.shields.io/badge/Atcoder-222?style=for-the-badge&logo=Atcoder&logoColor=white)](https://atcoder.jp/users/anushka2352) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Anushh23/)
+ [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforce&logoColor=white)](https://codeforces.com/profile/anushh23) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChf&logoColor=white)](https://www.codechef.com/users/anushka2352)
+ [![Atcoder](https://img.shields.io/badge/Atcoder-222?style=for-the-badge&logo=Atcoder&logoColor=white)](https://atcoder.jp/users/anushka2352) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCoe&logoColor=#d16c06)](https://leetcode.com/Anushh23/)
 
 ## &#x1f4c8; GitHub Stats
 
