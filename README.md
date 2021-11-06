@@ -2,18 +2,13 @@
 
 <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="400" height="300">
 
-### Fancy Seeing You Here 🌟
-
-I am Anushka, currently pursuing my bachelor's degree majoring in Mathematics And Computing from IIT (BHU) Varanasi. I am a Competitive programmer and have recently started Web development. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Anushka, currently pursuing my bachelor's degree majoring in Mathematics And Computing from IIT (BHU) Varanasi. I am a Competitive programmer and have recently started Web development. I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anushka-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-garg-b5743320a/)](https://www.linkedin.com/in/anushka-garg-b5743320a/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-anushh.2352@gmail.com-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:anushh.2352)](mailto:anushh.2352@gmail.com)
 
 ## &#9734; My Profiles
 
-- [Codeforces](https://codeforces.com/profile/anushh23)
-- [CodeChef](https://www.codechef.com/users/iwasamistake)
-- [Atcoder](https://atcoder.jp/users/anushka2352)
-- [Leetcode](https://leetcode.com/Anushh23/)
+ [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anushh23) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anushka2352) [![Atcoder](https://img.shields.io/badge/Atcoder-222?style=for-the-badge&logo=Atcoder&logoColor=white)](https://atcoder.jp/users/anushka2352) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Anushh23/)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -24,8 +19,6 @@ I am Anushka, currently pursuing my bachelor's degree majoring in Mathematics An
 <a href="https://github.com/anushh23/anushh23">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushh23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anushka's GitHub Stats" />
 </a>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=anushh23" />
 
 ## Languages and Tools 👩‍💻
 
